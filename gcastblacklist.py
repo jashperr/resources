@@ -82,4 +82,5 @@
     -1001119512908,  # @pythonofftopic
     -1001578266225,  # @LPM_Linux
     -1001446448420,  # @LPMRPRLHERE
+    -1002012215449,  # @Music_Universe_Group
 ]
